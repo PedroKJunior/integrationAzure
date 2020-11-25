@@ -1,4 +1,4 @@
-import './App.sass'
+import './App.css'
 import { MdFace } from 'react-icons/md'
 
 function App() {
